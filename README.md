@@ -2,6 +2,8 @@
 
 This is a simple game based on *Chocolate Fix*. It is written using React and several related libraries.
 
+# Play game: [https://rullo.click/](https://rullo.click/)
+
 ## How to play?
 
 - Drag items from the dock to the board,
